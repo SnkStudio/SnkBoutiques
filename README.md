@@ -95,6 +95,7 @@ Maj + clic droit pour la régler ou la supprimer.
 | **Sauvegarde** | SQLite, en arrière-plan, rien à installer |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkQuetes](https://github.com/SnkStudio/SnkQuetes)** : des défis de vente et des places de boutique à gagner
 - **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : un personnage qui ouvre les boutiques des joueurs
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : les boutiques dans un menu principal, des hologrammes et des classements
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent des ventes
