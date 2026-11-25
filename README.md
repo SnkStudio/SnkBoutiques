@@ -95,6 +95,7 @@ Maj + clic droit pour la régler ou la supprimer.
 | **Sauvegarde** | SQLite, en arrière-plan, rien à installer |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : les boutiques dans un menu principal, des hologrammes et des classements
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent des ventes
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : un pass de saison qui donne des places de boutique
 - **[SnkMarche](https://github.com/SnkStudio/SnkMarche)** : boutique du serveur, promos et hôtel des ventes
