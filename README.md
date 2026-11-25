@@ -95,6 +95,7 @@ Maj + clic droit pour la régler ou la supprimer.
 | **Sauvegarde** | SQLite, en arrière-plan, rien à installer |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkPass](https://github.com/SnkStudio/SnkPass)** : un pass de saison qui donne des places de boutique
 - **[SnkMarche](https://github.com/SnkStudio/SnkMarche)** : boutique du serveur, promos et hôtel des ventes
 - **[SnkMetiers](https://github.com/SnkStudio/SnkMetiers)** : 6 métiers et la monnaie du serveur
 - **[SnkGemmes](https://github.com/SnkStudio/SnkGemmes)** : 21 outils en émeraude, rubis et saphir
